@@ -19,7 +19,7 @@ MemScout automates memory image analysis by wrapping Volatility 3, running plugi
 ### 1. Clone and set up
 
 ```bash
-git clone https://github.com/you/memscout.git
+git clone https://github.com/Fad-X/memscout.git
 cd memscout
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
