@@ -1,6 +1,6 @@
 # 🔍 MemScout — Memory Forensics Automation Tool
 
-MemScout automates memory image analysis by wrapping Volatility 3, running plugins, detecting suspicious activity, and generating professional reports — all from a single command.
+MemScout automates memory image analysis by wrapping Volatility 3, running plugins, detecting suspicious activity, and generating professional reports all from a single command.
 
 ---
 
