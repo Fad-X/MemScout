@@ -1,0 +1,18 @@
+# Core
+volatility3>=2.5.0
+
+# CLI
+click>=8.1.0
+rich>=13.0.0
+
+# Reports
+jinja2>=3.1.0
+
+# GUI (optional)
+PyQt6>=6.5.0
+
+# PDF export (optional)
+weasyprint>=60.0
+
+# Dev/testing
+pytest>=7.0
